@@ -1,1 +1,1 @@
-export default ({children}) => <em>foo-{children}</em>
+export default ({children}) => <h3>foo-{children}</h3>
